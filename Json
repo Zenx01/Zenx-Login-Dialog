@@ -3,6 +3,6 @@
   { "username": "abc",        "password": "101", "expires": "2025-10-31T23:59:59Z" },
   { "username": "def",        "password": "102", "expiresEpoch": 1767139199000 },
   { "username": "ghi",        "password": "103" },  // no expiry
-  { "username": "jkl",        "password": "104", "expires": "2025-11-15" },
+  { "username": "jkl",        "password": "104", "expires": "2025-08-15" },
   { "username": "mno",        "password": "105", "expires": "2025-12-01" }
 ]
