@@ -1,7 +1,7 @@
 [
   { "username": "Zenx Modz", "password": "123", "expires": "2024-12-31 11:59 PM" },
   { "username": "abc",        "password": "101", "expires": "2025-09-29 6:12 AM" },
-  { "username": "def",        "password": "102", "expires": "2025-10-31 11:59 PM" },
+  { "username": "def",        "password": "102", "expires": "2025-09-29 11:30 AM" },
   { "username": "ghi",        "password": "103" },               // no expiry
   { "username": "jkl",        "password": "104", "expires": "2025-11-15" }, // date-only → end of day UTC
   { "username": "mno",        "password": "105", "expiresEpoch": 1767139199000 } // optional epoch millis
