@@ -1,8 +1,8 @@
 [
   {"username":"Zenx Modz","password":"123","expiry":"2025-10-05"},
   {"username":"abc","password":"101","expiry":"2025-09-29"},
-  {"username":"def","password":"102"},
+  {"username":"def","password":"102"}, // No date means no expiry 
   {"username":"ghi","password":"103","expiry":"2026-01-01"},
-  {"username":"jkl","password":"104"},
-  {"username":"mno","password":"105","expiry":"2025-12-31"}
+  {"username":"jkl","password":"104"}, // No date here means no expiry
+  {"username":"mno","password":"105","expiry":"2025-09-25"}
 ]
