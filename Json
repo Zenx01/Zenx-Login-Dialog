@@ -5,5 +5,5 @@
   { "username": "ghi",        "password": "103" },             // no expiry
   { "username": "jkl",        "password": "104", "expires": "2025-11-15" }, // end of day UTC
   { "username": "mno",        "password": "105", "expiresEpoch": 1767139199000 },
-  { "username": "pqr",        "password": "106", "expires": "2025-09-28}
+  { "username": "pqr",        "password": "106", "expires": "2025-09-28" }
 ]
