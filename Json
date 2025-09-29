@@ -1,9 +1,8 @@
 [
-  { "username": "Zenx Modz",  "password": "123", "expires": "2026-12-31 11:59 PM" },
-  { "username": "abc",        "password": "101", "expires": "2025-09-29 6:25 PM" },
-  { "username": "def",        "password": "102", "expires": "2025-10-31 11:59 PM" },
-  { "username": "ghi",        "password": "103" },             // no expiry
-  { "username": "jkl",        "password": "104", "expires": "2025-11-15" }, // end of day UTC
-  { "username": "mno",        "password": "105", "expiresEpoch": 1767139199000 },
-  { "username": "pqr",        "password": "106", "expires": "2025-09-28" }
+  {"username":"Zenx Modz","password":"123","expiry":"2025-10-05"},
+  {"username":"abc","password":"101","expiry":"2025-09-29"},
+  {"username":"def","password":"102"},
+  {"username":"ghi","password":"103","expiry":"2026-01-01"},
+  {"username":"jkl","password":"104"},
+  {"username":"mno","password":"105","expiry":"2025-12-31"}
 ]
