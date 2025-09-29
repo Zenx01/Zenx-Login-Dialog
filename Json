@@ -4,5 +4,5 @@
   { "username": "def",        "password": "102", "expiresEpoch": 1767139199000 },
   { "username": "ghi",        "password": "103" }, // no expiry
   { "username": "Zenx",       "password": "9999", "expires": "2025-09-29 06:00 AM" },
-  { "username": "jkl",        "password": "104", "expires": "2025-09-29 06:2:59 AM" },
+  { "username": "jkl",        "password": "104", "expires": "2025-09-29 06:2:59 AM" }
 ]
